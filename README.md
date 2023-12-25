@@ -30,7 +30,7 @@ in your terminal or command prompt.
 
 if you want to use the latest commits that are released from time to time, type this command:
 ```
-haxelib git flxanimate https://github.com/Dot-Stuff/flxanimate
+haxelib git flxanimate https://github.com/beihu235/flxanimate
 ```
 on your terminal or command prompt.
 
